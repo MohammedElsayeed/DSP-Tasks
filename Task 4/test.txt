@@ -1,0 +1,8 @@
+Amplitude: 1.000000, Phase (radians): 0.000000
+Amplitude: 3.000000, Phase (radians): 0.000000
+Amplitude: 5.000000, Phase (radians): 0.000000
+Amplitude: 7.000000, Phase (radians): 0.000000
+Amplitude: 9.000000, Phase (radians): 0.000000
+Amplitude: 11.000000, Phase (radians): 0.000000
+Amplitude: 13.000000, Phase (radians): 0.000000
+Amplitude: 15.000000, Phase (radians): 0.000000
